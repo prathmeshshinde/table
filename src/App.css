@@ -1,0 +1,48 @@
+.App {
+  font-family: "Roboto", sans-serif;
+}
+
+.section-form {
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: #b7dbff;
+  padding: 30px 10px;
+  border-radius: 10px;
+}
+
+.input-text {
+  width: 300px;
+}
+
+.input-button {
+  background-color: #1976d2;
+  color: white;
+  font-weight: 500;
+  font-size: 18px;
+  width: 120px;
+  height: 50px;
+  font-family: "Roboto", sans-serif;
+  border: none;
+  border-radius: 8px;
+}
+
+.section-table {
+  width: 100%;
+}
+
+.table-data {
+  display: flex;
+  justify-content: center;
+}
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
